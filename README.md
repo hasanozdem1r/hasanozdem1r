@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Hasan</h1>
-<h3 align="center">A passionate, curious and determined software developer :)</h3>
+<h3 align="center">A passionate, curious and determined software developer from somewhere :)</h3>
 
 - 🔭 I’m currently working on **Python, Data Analysis and RPA**
 

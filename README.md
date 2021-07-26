@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python, Data Analysis and RPA**
 
-- 🌱 I’m currently learning **DS libraries, Docker, Linux**
+- 🌱 I’m currently learning **DS libraries, Go, Docker, Linux**
 
 - 📝 I regularly write articles on [https://ozdemirhasan.medium.com/](https://ozdemirhasan.medium.com/)
 

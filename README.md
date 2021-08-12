@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Ubuntu, personal development**
 
-- 📫 How to reach me **hasann.ozdemirr58@gmail.com**
+- 📫 How to reach me **[LINKEDIN](https://linkedin.com/in/hasanozdem1r)**
 
 - ⚡ Fun fact **Travel and learn as crazy :)**
 

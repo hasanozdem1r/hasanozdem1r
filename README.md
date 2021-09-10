@@ -19,7 +19,7 @@
 <h3 align="left"> CONTACT: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasanozdem1r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanozdem1r" height="30" width="40" /></a>
-<a href="https://medium.com/@ozdemi̇rhasan" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111379.png" alt="@ozdemi̇rhasan" height="40" width="45" /></a>
+<a href="https://ozdemirhasan.medium.com/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111379.png" alt="@ozdemi̇rhasan" height="40" width="45" /></a>
 </p>
 
 <h3 align="left"> LANGUAGES AND TOOLS: </h3>

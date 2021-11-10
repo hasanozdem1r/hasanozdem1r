@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Hasan Ozdemir Medium](https://ozdemirhasan.medium.com/)
 
-- 💬 Ask me about **Python, Ubuntu, personal development**
+- 💬 Ask me about **Python, self development**
 
 - 📫 How to reach me **[LINKEDIN](https://linkedin.com/in/hasanozdem1r)**
 

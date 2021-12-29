@@ -32,4 +32,3 @@
 <hr>
 <h3 align="left"> 🔥 STATS 🔥 </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanozdem1r&show_icons=true&locale=en&layout=compact&theme=radical" alt="hasanozdem1r" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=hasanozdem1r&show_icons=true&locale=en&layout=compact&theme=radical" alt="hasanozdem1r" /></p>

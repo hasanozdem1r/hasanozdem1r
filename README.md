@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on [developing GoLang projects](https://github.com/hasanozdem1r/learning_go)
 
-- 📝 I regularly write articles on [@Hasan Ozdemir](https://ozdemirhasan.medium.com/)
+- 📝 I regularly write articles on [Hasan Ozdemir](https://ozdemirhasan.medium.com/)
 
 - 💬 Ask me about **Python, self development**
 

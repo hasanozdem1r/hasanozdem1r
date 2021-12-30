@@ -31,6 +31,6 @@
 
 <hr>
 <h3 align="left"> 🔥 STATS 🔥 </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanozdem1r&show_icons=true&locale=en&layout=compact&theme=radical" alt="hasanozdem1r" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanozdem1r&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="hasanozdem1r" /></p>
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=hasanozdem1r&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>

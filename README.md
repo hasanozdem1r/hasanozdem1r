@@ -2,7 +2,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/hasanozdem1r/" title="LinkedIn Profile"><img width="48" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>              </code>
-  <code><a href="https://www.hackerrank.com/hasanozdem1r" title="HackerRank Profile"><img width="48" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"></a>
+  <code><a href="https://www.hackerrank.com/hasanozdemir" title="HackerRank Profile"><img width="48" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"></a>
   </code>
   <code><a href="https://ozdemirhasan.medium.com/" title="Stack Overflow Profile"><img width="48" src="https://uploads-ssl.webflow.com/60be570d0c4208089abf9e6d/60dde573ac96f04367fb98bd_medium_icon.png"></a></code>
 </h5>

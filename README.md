@@ -1,10 +1,10 @@
 <h1 align="center">Hi 🧑‍💻, I am Hasan</h1>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/hasanozdem1r/" title="LinkedIn Profile"><img width="48" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>              </code>
-  <code><a href="https://www.hackerrank.com/hasanozdemir" title="HackerRank Profile"><img width="48" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"></a>
+    <a href="https://www.linkedin.com/in/hasanozdem1r/" target="_blank"  title="LinkedIn Profile"><img width="48" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>              </code>
+  <code><a href="https://www.hackerrank.com/hasanozdemir" target="_blank"  title="HackerRank Profile"><img width="48" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"></a>
   </code>
-  <code><a href="https://ozdemirhasan.medium.com/" title="Stack Overflow Profile"><img width="48" src="https://uploads-ssl.webflow.com/60be570d0c4208089abf9e6d/60dde573ac96f04367fb98bd_medium_icon.png"></a></code>
+  <code><a href="https://ozdemirhasan.medium.com/" target="_blank" title="Stack Overflow Profile"><img width="48" src="https://uploads-ssl.webflow.com/60be570d0c4208089abf9e6d/60dde573ac96f04367fb98bd_medium_icon.png"></a></code>
 </h5>
 
 <h3 align="center">A passionate, curious and determined software developer from somewhere :)</h3>

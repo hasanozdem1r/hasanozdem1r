@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 🧑‍💻, I am Hasan</h1>
 <h5 align="center">
   <code>
@@ -33,5 +34,10 @@
 <hr>
 <h3 align="left"> 🔥 STATS 🔥 </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanozdem1r&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="hasanozdem1r" /></p>
+
+<br><br><br><br><br><br><br><br><br><br>
+<hr>
+<h3 align="left"> 🔥 INFLUENCED BY 🔥 </h3>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Signature_of_Mustafa_Kemal_Atat%C3%BCrk.svg/1280px-Signature_of_Mustafa_Kemal_Atat%C3%BCrk.svg.png"></p>
 <br>
 

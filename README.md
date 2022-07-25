@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **[LINKEDIN](https://linkedin.com/in/hasanozdem1r)**
 
-- ⚡ Fun fact **Travel and learn as crazy :)**
+- ⚡ Fun fact **travel and learn as crazy :)**
 
 
 <hr>

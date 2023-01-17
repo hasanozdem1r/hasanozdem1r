@@ -40,9 +40,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -54,10 +51,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -71,17 +65,16 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a> 
 </div>
-
 </td></tr></table>  
 
 <br/>  
 
 <h3 align="left"> 🔥 STATS 🔥 </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasanozdem1r&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="hasanozdem1r" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hasanozdem1r&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="hasanozdem1r" /></p>
 
+        
 <br><br><br><br><br><br><br><br><br><br>
 <hr>
 <h3 align="left"> 🔥 INFLUENCED BY 🔥 </h3>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Signature_of_Mustafa_Kemal_Atat%C3%BCrk.svg/1280px-Signature_of_Mustafa_Kemal_Atat%C3%BCrk.svg.png"></p>
 <br>
-

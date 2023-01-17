@@ -1,12 +1,9 @@
 
 <h1 align="center">Hi (Hola, Привет, Merhaba)  🧑‍💻, I am Hasan</h1>
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/hasanozdem1r/" target="_blank"  title="LinkedIn Profile"><img width="48" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">       </a>              
-  </code>
-  <code><a href="https://www.hackerrank.com/hasanozdemir" target="_blank"  title="HackerRank Profile"><img width="48" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg"></a>
-  </code>
-  <code><a href="https://ozdemirhasan.medium.com/" target="_blank" title="Stack Overflow Profile"><img width="48" src="https://uploads-ssl.webflow.com/60be570d0c4208089abf9e6d/60dde573ac96f04367fb98bd_medium_icon.png"></a></code>
+    <a href="https://www.linkedin.com/in/hasanozdem1r/" target="_blank"  title="LinkedIn Profile"><img width="48" height="48" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="center">            
+    <a href="https://www.hackerrank.com/hasanozdemir" target="_blank"  title="HackerRank Profile"><img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" align="center">
+    <a href="https://ozdemirhasan.medium.com/" target="_blank" title="Stack Overflow Profile"><img width="48" height="48" src="https://uploads-ssl.webflow.com/60be570d0c4208089abf9e6d/60dde573ac96f04367fb98bd_medium_icon.png" align="center"></a>
 </h5>
 
 <h3 align="center">A passionate, curious and determined software developer from somewhere :)</h3>
@@ -17,11 +14,11 @@
 
 - 👯 I’m looking to collaborate on [developing GoLang projects](https://github.com/hasanozdem1r/learning_go)
 
-- 📝 I regularly write articles on [Hasan Ozdemir](https://ozdemirhasan.medium.com/)
+- 📝 I regularly write articles on [Medium](https://ozdemirhasan.medium.com/)
 
 - 💬 Ask me about **Python, self development**
 
-- 📫 How to reach me **[LINKEDIN](https://linkedin.com/in/hasanozdem1r)**
+- 📫 How to reach me **[LinkedIn](https://linkedin.com/in/hasanozdem1r)**
 
 - ⚡ Fun fact **travel and learn as crazy :)**
 

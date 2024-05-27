@@ -53,7 +53,7 @@
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" height="50" /></a>  
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" height="50" /></a>  
 
 <a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/airflow-3.svg" alt="Airflow" height="50" /></a> 
 </div>

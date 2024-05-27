@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently working on [Food Order Management with Microservices](https://github.com/hasanozdem1r/burgerzilla-food-order-management)
 
-- 🌱 I’m currently learning **GoLang, Docker, Data Analysis**
-
-- 👯 I’m looking to collaborate on [developing GoLang projects](https://github.com/hasanozdem1r/learning_go)
+- 🌱 I’m currently learning **Docker, Kubernetes**
 
 - 📝 I regularly write articles on [Medium](https://ozdemirhasan.medium.com/)
 
@@ -37,6 +35,8 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+
+<a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" alt="Canva" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -52,6 +52,10 @@
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" height="50" /></a>  
+
+<a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/airflow-3.svg" alt="Airflow" height="50" /></a> 
 </div>
 </td><td valign="top" width="33%">
 
